@@ -85,6 +85,7 @@ public class GT4500 implements SpaceShip {
           if (! primaryTorpedoStore.isEmpty()) {
             firingSuccess = primaryTorpedoStore.fire(1);
           }
+	//resolved conflict
           //adott fájl adott sora
         break;
     }
